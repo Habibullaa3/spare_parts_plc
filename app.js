@@ -1,8 +1,8 @@
 // Google API Client Library uchun sozlamalar
-const CLIENT_ID = 'YOUR_CLIENT_ID.apps.googleusercontent.com'; // o'zingizning CLIENT_ID ni qo'ying
-const API_KEY = 'YOUR_API_KEY'; // o'zingizning API kalitini qo'ying
-const SPREADSHEET_ID = 'YOUR_SHEET_ID'; // o'zingizning Google Sheets ID ni qo'ying
-const DRIVE_FOLDER_ID = 'YOUR_DRIVE_FOLDER_ID'; // o'zingizning Google Drive papka ID ni qo'ying
+const CLIENT_ID = '1077965497242-r2l2tcoobvcbts4dk738b5teesvstva8.apps.googleusercontent.com'; // o'zingizning CLIENT_ID ni qo'ying
+const API_KEY = 'AIzaSyCsHmEhKm6ohlJw24MjjaqLtBqjCcrSRQs'; // o'zingizning API kalitini qo'ying
+const SPREADSHEET_ID = '1oKtW9yRj-seEHsPUVWTWp5LMMqcoa2bwuZQusOwA8oo'; // o'zingizning Google Sheets ID ni qo'ying
+const DRIVE_FOLDER_ID = '1bZyD_JtGAPTYVh8qB_jKY5oU34ZQxvxE; // o'zingizning Google Drive papka ID ni qo'ying
 
 // Google API-iga autentifikatsiya qilish
 function authenticate() {
